@@ -10,6 +10,10 @@ export default [
     link: "https://en.wikipedia.org/wiki/Meppen"
   },
   {
+    amount: 365,
+    text: "the number of days in a year."
+  },
+  {
     amount: 206,
     text: "the number of bones in the typical adult human body."
   },
